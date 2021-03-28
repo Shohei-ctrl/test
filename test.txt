@@ -1,4 +1,9 @@
 hello world
 hello hello
 hellohello
+<<<<<<< HEAD
 hello hello
+=======
+yeahhhhhhhhhhhhhhhhhhhhhhh
+unchiunchi
+>>>>>>> 6b83a520b95843931a255605f8ae55e275bf338a
